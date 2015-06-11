@@ -19,6 +19,10 @@ layout: guide
 ##  Keep it short and simple 
 
 Write in short, clear sentences and paragraphs. Front-load important messages. Split complex prose into a few short sentences.
+
+Break up long paragraphs loaded with information into bulleted lists
+Keep paragraphs to 60 words or fewer
+(I know I'm putting this in the explanation but I thought it was content that should be added but not sure it should be a separate item).
  
 {::nomarkdown}
 <%= example_start %>
@@ -72,7 +76,7 @@ When first used on a page, ensure that acronyms are fully expanded. Follow the e
 {:/}
 
 {:.attach_permalink}
-## Make link text clear
+## Create understandable link text
 
 Try to write link text so that it would make sense out of context. Link text should describe the content of the link target in a meaningful way. Avoid using link text such as 'click here', 'find out more', or 'read more'. Where the link target is not HTML, indicate the document type and approximate size in the link text.
 
@@ -92,7 +96,7 @@ Try to write link text so that it would make sense out of context. Link text sho
 {:.attach_permalink}
 ## Provide short, meaningful headings to break-up text
 
-Use clear and simple headings to split up text into manageable chunks. Headings should be short and aim to describe or introduce the following section. They should not confuse readers as to what the following section should be about.  
+Use clear and simple headings to split up text into manageable chunks. Headings should be short (8 words or less) and aim to describe or introduce the section it precedes. They should not confuse readers as to what the following section should be about.  
 
 {::nomarkdown}
 <%= example_start %>
