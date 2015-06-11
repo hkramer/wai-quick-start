@@ -60,7 +60,7 @@ An accessibility policy for your organization should define your goals and targe
 {:/}
 
 {:.attach_permalink}
-##  Provide a publicly available website accessibility statement 
+##  Publicly display a website accessibility statement 
 
 An external website accessibility statement should include details on conformance levels and any specific accessibility accommodations provided for users. It is also helpful to provide a contact mechanism for people who might have difficulties with the website as a result of disability.
 
