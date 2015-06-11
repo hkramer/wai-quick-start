@@ -20,7 +20,7 @@ These introductory tips cover the basics of accessible user interface and visual
 {:/}
 
 {:.attach_permalink}
-## Provide sufficient contrast between colors
+## Provide sufficient contrast between foreground text and background color
 
 Wherever text is displayed, including on buttons, check that you have chosen foreground/background color combinations that have sufficient contrast. For text on a background image check a sample of dominant colors or provide some way to make the text stand out. Where color is used to differentiate two or more objects, ensure that contrast is checked between the colors of adjacent objects.
 
@@ -306,7 +306,7 @@ Text design benefits from clear headers to chunk up content, and main content th
 {:/}
 
 {:.attach_permalink}
-## Present text in a flexible font size and line length
+## Present text in a flexible font size and line length (should this be "appropriate line length"?)
 
 Ideal font size will vary for all users, so it is important to ensure that changes in the font size can be accommodated in the design, for example, by creating different layouts for different levels of zoom. For all designs ensure that the line length is kept to about 80 characters maximum.
 
