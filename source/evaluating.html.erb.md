@@ -109,7 +109,7 @@ Seek feedback from people with disabilities on any materials being evaluated. Th
 {:/}
 
 {:.attach_permalink}
-## Ensure final comprehensive evaluation
+## Conduct a final comprehensive evaluation
 
 Run a full, comprehensive evaluation before go-live. Aim to cover all key website functions, all templates, and, where appropriate, a reasonable sample of general content pages. Evaluation should check each point in the accessibility guidelines accepted by the organization. Ensure that there is sufficient development time to address any issues with key components.
 
