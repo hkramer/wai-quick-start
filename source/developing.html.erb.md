@@ -23,6 +23,7 @@ These introductory tips cover the basics of accessible web development. This is 
 
 HTML5 provides many elements that signify meaning, such as `<h1>`, `<nav>`, `<aside>`, which can be interpreted and communicated by assistive technologies. Use these elements to help structure content and convey meaning that is visually apparent. ARIA roles can be used to provide additional meaning to page elements, for example, using `role='search'` to identify search functionality. Work with designers and content authors to ensure the given meaning is agreed and consistently used.
 
+
 {::nomarkdown}
 <%= example_start %>
 {:/}
@@ -71,7 +72,7 @@ Associate the `<label>` element with form elements using the *for* and *id* attr
 {:/}
 
 {:.attach_permalink}
-## Reflect the reading order and the code order
+## Reflect the reading order with the order of code
 
 As much as possible, ensure that the order of elements in the code matches the order of the visual design. This can be checked by removing CSS styling and comparing the order of the content with the visual hierarchy of the page.
 
